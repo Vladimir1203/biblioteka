@@ -3,7 +3,6 @@ package biblioteka;
 import java.util.LinkedList;
 
 public class Knjiga {
-	
 	private String naslov;
 	private String isbn;
 	private LinkedList<Autor> autori;
